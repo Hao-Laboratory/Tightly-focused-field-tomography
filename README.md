@@ -1,4 +1,4 @@
-# Tightly Focused Field Reconstruction
+# Tightly focused field tomography
 The open-source code will be provided upon acceptance of the paper.
 
 ## License
