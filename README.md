@@ -23,9 +23,9 @@ If you use this code and find our work valuable, please cite our paper.
   author={Liu, Xin and Tu, Shijie and Hu, Yiwen and Peng, Yifan and Han, Yubing and Kuang, Cuifang and Liu, Xu and Hao, Xiang},
   year={2025},
   journal={Nature Communications},
-  volume = {xxx},
-  number = {xxx},
-  pages = {xxx--xxx},
+  volume = {16},
+  number = {1},
+  pages = {34--78},
   doi={10.1038/s41467-025-58830-2}
 }
 ```
