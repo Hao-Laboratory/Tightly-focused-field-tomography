@@ -25,7 +25,7 @@ If you use this code and find our work valuable, please cite our paper.
   journal={Nature Communications},
   volume = {16},
   number = {1},
-  pages = {34--78},
+  pages = {3478},
   doi={10.1038/s41467-025-58830-2}
 }
 ```
